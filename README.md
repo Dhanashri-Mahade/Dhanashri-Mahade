@@ -22,5 +22,6 @@ I enjoy designing reliable systems, writing clean code, and exploring DevOps wor
 **Interests:** **Cricket🏏**, **music🎧**, reading about **software development**, **system design**, and how scalable systems work under the hood.
 
 ## 🔗 Connect with Me
-**LinkedIn:** [Dhanashri Mahade](https://www.linkedin.com/in/dhanashri-mahade/)
+**LinkedIn:** [Dhanashri Mahade](https://www.linkedin.com/in/dhanashri-mahade/) 
+
 Let’s connect and build something meaningful! 🚀
