@@ -14,10 +14,10 @@ I enjoy designing reliable systems, writing clean code, and exploring DevOps wor
 - VS Code  
 - Git & GitHub  
 - WordPress  
-- Google Cloud Platform (GCP)  
+- Google Cloud Platform (GCP)
+- Linux (server management)
 - Postman  
-- Docker (basic)  
-- Linux (server management)  
+- Docker (basic)    
 
 **Interests:** **Cricket🏏**, **music🎧**, reading about **software development**, **system design**, and how scalable systems work under the hood.
 
