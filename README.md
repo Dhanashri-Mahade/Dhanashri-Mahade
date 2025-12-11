@@ -16,7 +16,7 @@ I enjoy designing reliable systems, writing clean code, and exploring DevOps wor
 - WordPress  
 - Google Cloud Platform (GCP)
 - Linux (server management)
-- Postman  
+- Postman , Swagger 
 - Docker (basic)    
 
 **Interests:** **Cricket🏏**, **music🎧**, reading about **software development**, **system design**, and how scalable systems work under the hood.
